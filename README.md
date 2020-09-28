@@ -28,7 +28,7 @@
 <a href="https://instagram.com/amaj_pal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="amaj_pal" height="30" width="40" /></a>
 <a href="https://medium.com/@ahmed.jouda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ahmed.jouda" height="30" width="40" /></a>
 </p>
-<br />
+
 <img align="right" src="http://www.globalnerdy.com/wordpress/wp-content/uploads/2018/11/two-types-of-people.jpg" alt="c" width="400" height="300"/>
 
 <h3 align="left">Languages and Tools:</h3>
