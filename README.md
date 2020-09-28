@@ -1,3 +1,4 @@
+![Dash](GithubDash.jpg)
 <h1 align="center">Hi 👋, this is Ahmed</h1>
 <h3 align="center">A passionate Data Scientist based in Dublin, Ireland</h3>
 
