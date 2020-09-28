@@ -5,25 +5,22 @@
 
 - 🎓 Completing my 3rd year out of 4 at [UCD BSc. Computer Science with Data Science](https://www.myucd.ie/courses/science/computer-science-data-science/)
 
-- 🌱 I’m currently learning **Bloomberg, Networks & AI basics**
+- 🌱 I’m currently learning **Bloomberg & AI basics**
 
 - 👯 Founding member of [Ireland's first Data Society](http://datasoc.co/)
 
-- 👨‍💻 Keep up with my projects at [https://www.linkedin.com/in/ahmed-jouda-719b05148/](https://www.linkedin.com/in/ahmed-jouda-719b05148/)
+- 📝 Sometimes I write [articles](www.collegetribune.com), 📷 other times I take [photos](https://www.instagram.com/__globalphotography__/)
 
-- 📝 I regulary write articles on [www.collegetribune.com](www.collegetribune.com)
-
-- 💬 Ask me about **Data Analytics & Social Entrepreneurship**
+- 💡 In my free time I passionatly work in Social Entrepreneurship with [YSI](https://bizplus.ie/portmarnock-students-caught-mapping-win-award/) and [Enactus](https://www.linkedin.com/feed/update/urn:li:activity:6672172263942496256/)
 
 - 📫 How to reach me **ahmed.jouda@ucdconnect.ie**
 
-- ⚡ Fun fact: **There are two kinds of data scientists. 1.) Those who can extrapolate from incomplete data.**
+<img align="center" src="http://www.globalnerdy.com/wordpress/wp-content/uploads/2018/11/two-types-of-people.jpg" alt="c" width="300" height="200"/>
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/ahmedjudah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ahmedjudah" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ahmed jouda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ahmed jouda" height="30" width="40" /></a>
-<a href="https://fb.com/ahmed jouda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ahmed jouda" height="30" width="40" /></a>
+<a href="https://twitter.com/ahmedjudah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ahmedjudah" height="30" width="40" /></a>
 <a href="https://instagram.com/amaj_pal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="amaj_pal" height="30" width="40" /></a>
 <a href="https://medium.com/@ahmed.jouda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ahmed.jouda" height="30" width="40" /></a>
 </p>
