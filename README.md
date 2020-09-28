@@ -9,7 +9,7 @@
 
 - 👯 Founding member of [Ireland's first Data Society](http://datasoc.co/)
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ahmed-jouda-719b05148/](https://www.linkedin.com/in/ahmed-jouda-719b05148/)
+- 👨‍💻 Keep up with my projects at [https://www.linkedin.com/in/ahmed-jouda-719b05148/](https://www.linkedin.com/in/ahmed-jouda-719b05148/)
 
 - 📝 I regulary write articles on [www.collegetribune.com](www.collegetribune.com)
 
@@ -17,11 +17,7 @@
 
 - 📫 How to reach me **ahmed.jouda@ucdconnect.ie**
 
-- ⚡ Fun fact **There are two kinds of data scientists. 1.) Those who can extrapolate from incomplete data.**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- ⚡ Fun fact: **There are two kinds of data scientists. 1.) Those who can extrapolate from incomplete data.**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
