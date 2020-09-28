@@ -15,6 +15,9 @@
 
 - 📫 How to reach me **ahmed.jouda@ucdconnect.ie**
 
+<!-- <!-- BLOG-POST-LIST::START -->
+<!-- <!-- BLOG-POST-LIST::END -->
+
 <img align="center" src="http://www.globalnerdy.com/wordpress/wp-content/uploads/2018/11/two-types-of-people.jpg" alt="c" width="300" height="200"/>
 
 <p align="left">
