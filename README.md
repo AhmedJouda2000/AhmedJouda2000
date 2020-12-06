@@ -13,7 +13,7 @@
 
 - 📝 Sometimes I write [articles](https://collegetribune.ie/?s=AHMED+JOUDA), 📷 other times I take [photos](https://www.instagram.com/__globalphotography__/)
 
-- 💡 In my free time I passionatly work in Social Entrepreneurship with [YSI](https://bizplus.ie/portmarnock-students-caught-mapping-win-award/) and [Enactus](https://www.linkedin.com/feed/update/urn:li:activity:6672172263942496256/)
+- 💡 In my free time I passionately work in Social Entrepreneurship with [YSI](https://bizplus.ie/portmarnock-students-caught-mapping-win-award/) and [Enactus](https://www.linkedin.com/feed/update/urn:li:activity:6672172263942496256/)
 
 - 📫 How to reach me **ahmed.jouda@ucdconnect.ie**
 
