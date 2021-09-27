@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋, this is Ahmed</h1>
-<h3 align="center">A passionate Data Scientist based in Dublin, Ireland</h3>
+<h3 align="center">A passionate Computer Scientist based in Dublin, Ireland</h3>
 <img align="right" src="GithubDash.jpg" alt="c" width="400" height="300"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedjouda2000" alt="ahmedjouda2000" /> </p>
 
-- 🎓 Completing my 3rd year out of 4 at [UCD BSc. Computer Science with Data Science](https://www.myucd.ie/courses/science/computer-science-data-science/)
+- 🎓 Completing my final year at [UCD BSc. Computer Science with Data Science](https://www.myucd.ie/courses/science/computer-science-data-science/)
 
-- 🌱 I’m currently learning **Bloomberg & AI basics**
+- 🌱 I’m currently learning **Data Mining & Machine Learning**
 
 - 👯 Founding member of [Ireland's first Data Society](http://datasoc.co/)
 
