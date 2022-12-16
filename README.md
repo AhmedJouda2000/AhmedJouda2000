@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Data Mining & Machine Learning**
 
-- 👯 Founding member of [Ireland's first Data Society](http://datasoc.co/)
+- 👯 Founding member of [Ireland's first Data Society](https://www.instagram.com/thedatasoc/?hl=en)
 
 - 📝 Sometimes I write [articles](https://collegetribune.ie/?s=AHMED+JOUDA), 📷 other times I take [photos](https://www.instagram.com/__globalphotography__/)
 
