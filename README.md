@@ -5,7 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedjouda2000" alt="ahmedjouda2000" /> </p>
 
-- 🎓 Completing my final year at [UCD BSc. Computer Science with Data Science](https://www.myucd.ie/courses/science/computer-science-data-science/)
+- 👨‍💼 Working as a Software Developer at [Guidewire Software](https://www.guidewire.com/)
+
+- 🎓 Graduated from [UCD BSc. Computer Science with Data Science](https://www.myucd.ie/courses/science/computer-science-data-science/)
 
 - 🌱 I’m currently learning **Data Mining & Machine Learning**
 
@@ -15,7 +17,7 @@
 
 - 💡 In my free time I passionately work in Social Entrepreneurship with [YSI](https://bizplus.ie/portmarnock-students-caught-mapping-win-award/) and [Enactus](https://www.linkedin.com/feed/update/urn:li:activity:6672172263942496256/)
 
-- 📫 How to reach me **ahmed.jouda@ucdconnect.ie**
+- 📫 How to reach me **ahmedjudah00@gmail.com**
 
 <!-- <!-- BLOG-POST-LIST::START -->
 <!-- <!-- BLOG-POST-LIST::END -->
