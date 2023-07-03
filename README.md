@@ -13,7 +13,7 @@
 
 - 👯 Founding member of [Ireland's first Data Society](https://www.instagram.com/thedatasoc/?hl=en)
 
-- 📝 Sometimes I write [articles](https://collegetribune.ie/?s=AHMED+JOUDA), 📷 other times I take [photos](https://www.instagram.com/__globalphotography__/)
+- 📝 Sometimes I write [articles](https://collegetribune.ie/?s=AHMED+JOUDA), 📷 other times I take [photos](https://www.instagram.com/global.photo.graphy/)
 
 - 💡 In my free time I passionately work in Social Entrepreneurship with [YSI](https://bizplus.ie/portmarnock-students-caught-mapping-win-award/) and [Enactus](https://www.linkedin.com/feed/update/urn:li:activity:6672172263942496256/)
 
