@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, this is Ahmed</h1>
-<h3 align="center">A passionate Computer Scientist based in Dublin, Ireland</h3>
+<h3 align="center">Software Enthusiast in between Europe and MENA.</h3>
 <img align="right" src="GithubDash.jpg" alt="c" width="400" height="300"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedjouda2000" alt="ahmedjouda2000" /> </p>
