@@ -5,7 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedjouda2000" alt="ahmedjouda2000" /> </p>
 
-- 👨‍💼 Working as a Software Developer at [Guidewire Software](https://www.guidewire.com/)
+- Currently exploring Digitial Transformation Consultanting with [Four Principles](https://www.fourprinciples.com/)
+
+- 👨‍💼 Ex-Software Developer at [Guidewire Software](https://www.guidewire.com/)
 
 - 🎓 Graduated from [UCD BSc. Computer Science with Data Science](https://www.myucd.ie/courses/science/computer-science-data-science/)
 
